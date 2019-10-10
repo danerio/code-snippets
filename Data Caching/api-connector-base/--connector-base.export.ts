@@ -1,0 +1,1 @@
+export { APIConnectorServiceConfig, BaseAPIConnector } from './base-api-connector';
